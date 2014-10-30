@@ -1,10 +1,10 @@
 # Personal Information
 
 ## Name
-[Place your name here]
+Shawn Meier
 
 ## Photo
-[upload a photo and add it here]
+![](images/profile.png)
 [This is the syntax for uploading a photo: ![](images/profile.png)]
 
 ## Email
