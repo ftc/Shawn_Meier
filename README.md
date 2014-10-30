@@ -7,18 +7,18 @@ Shawn Meier
 [This is the syntax for uploading a photo: ![](images/profile.png)]
 
 ## Email
-[your @colorado.edu address]
+shawn.meier@gmail.com
 
 ## Website
 [If you have a website, put the URL here]
 
 # Current Funding
-[Explain your funding situation?]
+MUSE (DARPA)
 
 # PhD Program
 
 ## Thesis Advisor
-[Advisor name here]
+Bor-Yuh Evan Chang
 
 ## Committee 
 [Fill out your thesis committee below, if you know it]
