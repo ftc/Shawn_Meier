@@ -4,7 +4,6 @@
 Shawn Meier
 
 ## Photo
-![](images/profile.png)
 [This is the syntax for uploading a photo: ![](images/profile.png)]
 
 ## Email
